@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:drawable="@color/splash_background_color"
+        android:gravity="fill_horizontal" />
+    <item
+        android:drawable="@drawable/ic_snake"
+        android:height="300dp"
+        android:width="60dp"
+        android:gravity="center" />
+</layer-list>
